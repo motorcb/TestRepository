@@ -4,5 +4,8 @@ git clone https://github.com/motorcb/TestRepository.git
 COMMIT
 git commit -m "commit message"
 
+MERGE with origin/master
+git merge origin/master
+
 PUSH origin
 git push origin
