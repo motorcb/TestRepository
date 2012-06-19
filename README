@@ -1,10 +1,10 @@
-== ZÁKLADNÍ PØÍKAZY PRO GIT ==
+== Zï¿½KLADNï¿½ Pï¿½ï¿½KAZY PRO GIT ==
 
 CLONE:
 git clone https://github.com/motorcb/TestRepository.git
 
 COMMIT
-git commit -m "commit message"
+git commit -a -m "commit message"
 
 FETCH origin
 git fetch origin
