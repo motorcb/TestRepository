@@ -1,3 +1,5 @@
+== ZÁKLADNÍ PØÍKAZY PRO GIT ==
+
 CLONE:
 git clone https://github.com/motorcb/TestRepository.git
 
