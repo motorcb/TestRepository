@@ -3,3 +3,6 @@ git clone https://github.com/motorcb/TestRepository.git
 
 COMMIT
 git commit -m "commit message"
+
+PUSH origin
+git push origin
