@@ -1,7 +1,1 @@
-nejchytrejsi
-
-pisu si prvni radek
-zmena pro velkej commit
-tak je to jasny, velkej commit jde udelat pouze kdyz byl proveden malej commit
-pouze pripisu tento radek
-echo "Tak jsem pripsal pouye radek na konec - po nem je odradkovano";
+git clone https://github.com/motorcb/TestRepository.git
