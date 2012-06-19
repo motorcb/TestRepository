@@ -4,6 +4,9 @@ git clone https://github.com/motorcb/TestRepository.git
 COMMIT
 git commit -m "commit message"
 
+FETCH origin
+git fetch origin
+
 MERGE with origin/master
 git merge origin/master
 
